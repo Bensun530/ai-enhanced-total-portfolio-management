@@ -1,0 +1,19 @@
+# Ignore Python cache files
+__pycache__/
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore virtual environment and environment files
+.venv/
+.env
+
+# Ignore data folders
+data/raw/
+data/processed/
+
+# Ignore outputs folder
+outputs/
+
+# Ignore specific file types
+*.pkl
